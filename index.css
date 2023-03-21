@@ -8,7 +8,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 75px;
+    padding-top: 5em;
     /* margin: auto; */
 }
 
@@ -17,7 +17,7 @@ main {
     display: flex;
     flex-direction: column;
     width: 290px;
-    padding: 15px;
+    padding: 1em;
     border-radius: 10px;
 }
 
@@ -44,7 +44,7 @@ main {
 .attribution {
     font-size: 11px;
     text-align: center;
-    margin: 25px;
+    margin: 1.5em;
 }
 
 .attribution a {
@@ -53,6 +53,6 @@ main {
 
 @media screen and (max-width: 375px) {
     .card {
-        padding: 7.5px;
+        padding: 0.5em;
     }
 }
